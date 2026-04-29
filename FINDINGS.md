@@ -1,6 +1,6 @@
 # Architectural Trade-offs in Space-Efficient ECDLP: Three Findings on the Post-CFS Landscape
 
-**Author:** Paul Amelin, Independent researcher
+**Author:** Paul Mutov, Independent researcher
 **Status:** Research note. April 2026.
 
 ---

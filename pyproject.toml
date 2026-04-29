@@ -2,7 +2,7 @@
 name = "ecdlp-architectural-findings"
 version = "1.0.0"
 description = "Research note: architectural trade-offs in space-efficient ECDLP"
-authors = [{name = "Paul Amelin"}]
+authors = [{name = "Paul Mutov"}]
 requires-python = ">=3.10"
 dependencies = ["gmpy2", "numpy"]
 
