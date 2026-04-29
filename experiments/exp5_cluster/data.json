@@ -1,0 +1,30 @@
+{
+  "experiment": "exp5_cluster",
+  "family": "wide20",
+  "k_c": 13,
+  "precision_bits": 14,
+  "use_offset": true,
+  "chain_length": 512,
+  "n_chains": 2000,
+  "seed": 3423623138,
+  "elapsed_seconds": 7.4,
+  "abort_per_chain_mean": 0.025,
+  "false_cert_per_chain_mean": 0.401,
+  "abort_histogram": {
+    "0": 1951,
+    "1": 48,
+    "2": 1
+  },
+  "false_cert_histogram": {
+    "0": 1339,
+    "1": 537,
+    "2": 107,
+    "3": 17
+  },
+  "abort_chi2_vs_poisson": 0.012090451500883429,
+  "false_chi2_vs_poisson": 0.4764675817869574,
+  "lag1_autocorrelation_frac_S": -0.0008901688539375134,
+  "mean_variance_frac_S": 0.08313346453782881,
+  "max_aborts_in_one_chain": 2,
+  "max_false_in_one_chain": 3
+}

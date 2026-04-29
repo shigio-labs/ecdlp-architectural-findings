@@ -1,0 +1,91 @@
+{
+  "experiment": "exp7_pebble",
+  "tree": {
+    "num_leaves": 19,
+    "num_nodes": 37,
+    "height": 5,
+    "root": 36
+  },
+  "black_model": {
+    "k=4": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_states_compute": 37831,
+      "visited_states_full": 37831
+    },
+    "k=5": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_states_compute": 340222,
+      "visited_states_full": 340222
+    },
+    "k=6": {
+      "possible": true,
+      "min_steps_compute_root": 68,
+      "min_steps_compute_uncompute": 74,
+      "visited_states_compute": 2207508,
+      "visited_states_full": 3156825
+    },
+    "k=7": {
+      "possible": true,
+      "min_steps_compute_root": 67,
+      "min_steps_compute_uncompute": 74,
+      "visited_states_compute": 10325584,
+      "visited_states_full": 18833195
+    }
+  },
+  "relaxed_ghost_model_k5": {
+    "g=0": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_compute": 340222,
+      "visited_full": 340222,
+      "cutoff_hit_compute": false,
+      "cutoff_hit_full": false
+    },
+    "g=1": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_compute": 3000005,
+      "visited_full": 2000006,
+      "cutoff_hit_compute": true,
+      "cutoff_hit_full": true
+    },
+    "g=2": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_compute": 3000000,
+      "visited_full": 2000000,
+      "cutoff_hit_compute": true,
+      "cutoff_hit_full": true
+    },
+    "g=3": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_compute": 3000001,
+      "visited_full": 2000001,
+      "cutoff_hit_compute": true,
+      "cutoff_hit_full": true
+    },
+    "g=4": {
+      "possible": false,
+      "min_steps_compute_root": null,
+      "min_steps_compute_uncompute": null,
+      "visited_compute": 3000001,
+      "visited_full": 2000001,
+      "cutoff_hit_compute": true,
+      "cutoff_hit_full": true
+    }
+  },
+  "budgets": {
+    "max_visited_compute": 3000000,
+    "max_visited_full": 2000000
+  },
+  "elapsed_seconds": 393.987
+}
