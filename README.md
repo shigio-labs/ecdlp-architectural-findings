@@ -111,7 +111,7 @@ Dual-licensed:
 - **Code** (everything under `rns/`, `delta/`, `experiments/`): MIT —
   see [LICENSE-CODE](LICENSE-CODE).
 - **Text** (`FINDINGS.md`, `docs/`, `README.md`, `papers/README.md`):
-  CC-BY 4.0 — see [LICENSE-TEXT](LICENSE-TEXT).
+  CC-BY 4.0 — see [LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0).
 
 ## Citation
 
