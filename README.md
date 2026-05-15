@@ -116,7 +116,7 @@ Dual-licensed:
 ## Citation
 
 ```bibtex
-@misc{amelin_ecdlp_architectural_findings_2026,
+@misc{mutov_ecdlp_architectural_findings_2026,
   author       = {Paul Mutov},
   title        = {Architectural Trade-offs in Space-Efficient ECDLP:
                   Three Findings on the Post-CFS Landscape},
